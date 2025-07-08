@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArcDerivative, an intermediate coder going to college in the UK
+- 👋 Hi, I’m @ArcDerivative. clueless american, sworn extrovert, doesn't like sugar
 - 👀 I’m interested in all things abstract
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me: calebjzsu@gmail.com
